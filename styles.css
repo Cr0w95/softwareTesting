@@ -1,0 +1,43 @@
+div{
+    margin: 0 auto;
+    width: 50%;
+}
+p{
+    margin: 0;
+}
+.center{
+    margin: 10%;
+    height: auto;
+    text-align: center;
+
+}
+header, nav, footer{
+    text-align: center;
+    background-color: rgb(145, 120, 87);
+}
+header{
+    font-style: stretch;
+    color: white;
+}
+main{
+    margin: auto;
+    height: auto;
+    background-color: rgba(240, 240, 240, 0.973);
+    overflow: hidden;
+    
+}
+nav {
+    background-color: antiquewhite;
+    color: black
+}
+section.left{
+    text-align: center 0;
+    height: auto;
+    background-color: rgb(182, 173, 133);
+    float: left;
+    width: 100px;
+}
+ul{
+   margin-left: -40px;
+   list-style-type: none;
+}
