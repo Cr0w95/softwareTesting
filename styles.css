@@ -13,7 +13,7 @@ p{
 }
 header, nav, footer{
     text-align: center;
-    background-color: rgb(145, 120, 87);
+    background-color: rgb(37, 161, 149);
 }
 header{
     font-style: stretch;
@@ -22,18 +22,18 @@ header{
 main{
     margin: auto;
     height: auto;
-    background-color: rgba(240, 240, 240, 0.973);
+    background-color:rgba(240, 240, 240, 0.973);;
     overflow: hidden;
     
 }
 nav {
-    background-color: antiquewhite;
+    background-color: turquoise;
     color: black
 }
 section.left{
-    text-align: center 0;
+    text-align: center;
     height: auto;
-    background-color: rgb(182, 173, 133);
+    background-color:rgb(37, 161, 149);
     float: left;
     width: 100px;
 }
