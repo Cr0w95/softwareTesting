@@ -1,6 +1,6 @@
 div{
     margin: 0 auto;
-    width: 50%;
+    width: 75%;
 }
 p{
     margin: 0;
@@ -36,6 +36,7 @@ section.left{
     background-color:rgb(37, 161, 149);
     float: left;
     width: 100px;
+    height: auto;
 }
 ul{
    margin-left: -40px;
